@@ -25,7 +25,7 @@ SECRET_KEY = 'v-y2a)rfzuidppgxere()-*uk-^(a0t$y747-g2@ehx_%*4z!^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'alchupin.pythonanywhere.com']
 
 
 # Application definition
